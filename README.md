@@ -24,10 +24,10 @@
 
 ##### Profile Section:
 
-- first name - name='fname' 
-- last name - name='lname' 
-- mobile number - name='phone' 
-- address - name='address' 
+- first name - name='fname'
+- last name - name='lname'
+- mobile number - name='phone'
+- address - name='address'
 - Image - name="url"
 
 ##### Education Section:
@@ -57,6 +57,5 @@
 
 - social - name="Social"
 - Add social - id = `add_social`
-
 
 <img src='https://storage.googleapis.com/acciojob-open-file-collections/resu.gif' width='700px' height='500px'/>
